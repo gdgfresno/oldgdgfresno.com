@@ -1,4 +1,4 @@
-gdgfresno.github.io
-===================
-
 gdgfresno.com
+=============
+
+gdgfresno.com codebase
