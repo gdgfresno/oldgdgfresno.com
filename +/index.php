@@ -1,0 +1,1 @@
+<?php header('Location: https://plus.google.com/114769570436363155784/posts'); ?>

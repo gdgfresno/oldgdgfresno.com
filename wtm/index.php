@@ -1,0 +1,1 @@
+<?php header('Location: http://attending.io/events/women-techmakers'); ?>
