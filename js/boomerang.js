@@ -16,11 +16,11 @@ boomerang.factory('Config',function(){
         'google_api'    : 'AIzaSyDPjRfTjr-X-FB0jRSf06_7rHAvu9oQ3To',
         'pwa_id'        : '5846413253595166705', //picasa web album id, must belong to google+ id above
         'cover' : {
-            title : 'Women Tech Makers',
+            title : 'GDG Devfest 2014',
                 subtitle : 'Great innovation takes place through the collective effort of many programmers from diverse backgrounds, and great tech leaders come from everywhere.',
                 button : {
                     text : 'Register',
-                    url : 'http://gdgfresno.com/wtm'
+                    url : 'devfest.gdgfresno.com'
                 }
         }
     }
