@@ -19,7 +19,7 @@ boomerang.factory('Config',function(){
             title : 'GDG Devfest 2014',
                 subtitle : 'Great innovation takes place through the collective effort of many programmers from diverse backgrounds, and great tech leaders come from everywhere.',
                 button : {
-                    text : 'Register',
+                    text : 'Learn More',
                     url : 'http://devfest.gdgfresno.com'
                 }
         }
