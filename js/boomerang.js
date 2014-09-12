@@ -20,7 +20,7 @@ boomerang.factory('Config',function(){
                 subtitle : 'Great innovation takes place through the collective effort of many programmers from diverse backgrounds, and great tech leaders come from everywhere.',
                 button : {
                     text : 'Register',
-                    url : 'devfest.gdgfresno.com'
+                    url : 'http://devfest.gdgfresno.com'
                 }
         }
     }
