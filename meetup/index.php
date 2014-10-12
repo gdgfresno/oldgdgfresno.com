@@ -1,1 +1,0 @@
-<?php header('Location: http://www.meetup.com/googledevelopers'); ?>

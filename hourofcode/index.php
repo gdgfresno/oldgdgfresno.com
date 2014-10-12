@@ -1,1 +1,0 @@
-<?php header('Location: https://www.eventbrite.com/e/gdg-fresno-hour-of-code-tickets-9515058797'); ?>
